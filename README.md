@@ -1,5 +1,3 @@
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitoyuma7110&layout=compact)
-
 <div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naitoyuma7110" alt="ishi720" /></a> </p>
 </div>
