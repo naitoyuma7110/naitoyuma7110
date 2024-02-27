@@ -13,8 +13,8 @@
   </a>
 </p>
 <div>
-<img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naitoyuma7110&theme=default" />
-<img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naitoyuma7110&theme=default" />
-<img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naitoyuma7110&theme=default" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naitoyuma7110&theme=default" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naitoyuma7110&theme=default" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naitoyuma7110&theme=default" />
 </div>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naitoyuma7110&theme=default" />
