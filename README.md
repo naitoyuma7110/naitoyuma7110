@@ -12,25 +12,9 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/naitoyuma/contributions.svg" />
   </a>
 </p>
-  <div>
-    <div style="display: flex">
-      <div style="flex: 1">
-        <img
-          width="100%"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naitoyuma7110&theme=default" />
-      </div>
-      <div style="flex: 1">
-        <img
-          width="100%"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naitoyuma7110&theme=default" />
-      </div>
-      <div style="flex: 1">
-        <img
-          width="100%"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15&theme=default" />
-      </div>
-    </div>
-    <img
-      width="100%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naitoyuma7110&theme=default" />
-  </div>
+<div>
+<img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naitoyuma7110&theme=default" />
+<img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naitoyuma7110&theme=default" />
+<img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naitoyuma7110&theme=default" />
+</div>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naitoyuma7110&theme=default" />
