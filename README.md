@@ -1,8 +1,5 @@
 <p align="left">
   <a href="https://github.com/naitoyuma7110">
-    <img height="20" src="https://komarev.com/ghpvc/?username=naitoyuma7110" />
-  </a>
-  <a href="https://github.com/naitoyuma7110">
     <img height="20" src="https://img.shields.io/github/followers/naitoyuma7110?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/naitoyuma">
