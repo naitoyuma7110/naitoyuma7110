@@ -1,7 +1,7 @@
 <p align="left">
-  <a href="https://github.com/naitoyuma7110">
+<!--   <a href="https://github.com/naitoyuma7110">
     <img height="20" src="https://img.shields.io/github/followers/naitoyuma7110?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
   <a href="http://qiita.com/naitoyuma">
     <img height="20" src="https://qiita-badge.apiapi.app/s/naitoyuma/posts.svg" />
   </a>
