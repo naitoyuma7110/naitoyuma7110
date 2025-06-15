@@ -1,13 +1,7 @@
 <p align="left">
-<!--   <a href="https://github.com/naitoyuma7110">
-    <img height="20" src="https://img.shields.io/github/followers/naitoyuma7110?label=follow&logo=github&style=flat" />
-  </a> -->
-  <a href="http://qiita.com/naitoyuma">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naitoyuma/posts.svg" />
-  </a>
-  <a href="http://qiita.com/naitoyuma">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naitoyuma/contributions.svg" />
-  </a>
+<a href="https://qiita.com/naitoyuma" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Qiita-naitoyuma-green?logo=qiita&style=flat" alt="Qiita Badge" />
+</a>
 </p>
 <div>
   <div style="width:100%">
